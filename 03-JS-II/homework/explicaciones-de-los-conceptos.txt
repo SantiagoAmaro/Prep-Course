@@ -1,0 +1,25 @@
+Bucle for:
+'for' es una de las dos expresiónes en bucle que tiene javascript, en esta expresión hay que especificar cuantas repeticiones tendra durante su ejecución.
+-Se compone de 3 partes:
+    - Declaración de la variable
+    - Número de repeticiones 
+    - Incremento de la variable
+
+- for(var i = 0; i < 10; i++) {
+    console.log(i);
+}
+
+Mientras se ejecuta la variable 'i' aumentará en cada repetición.
+
+Operadores lógicos:
+Estos operadores lo que hacen es comparar booleanos y devolver un resultado que puede ser verdadero, falso o nulo.
+
+- '&&':
+Este operador se llama 'Y' en español o 'And' en inglés, lo que hace este operador es evaluar las expresiónes y devolver 'true' solo en el caso de que las dos expresiónes sean verdaderas, en cualquier otro caso devolvera false.
+
+- '||':
+Otro de los operadores es este '||' y significa 'Ó' en español o 'OR' en inglés, este operador evaluará las expresiónes y devolverá false solamente en el caso de que las dos expresiónes sean falsas, en cualquier otro caso devolverá true.
+
+- '!':
+El tercer operador que tenemos es este '!', significa 'No' en español o 'Not' en inglés, se escribe con un solo signo de exclamación y este operador lo que hará es devolverte el opuesto de lo que realmente es la expresión que se le pasa, por ejemplo: si le das una expresión que sea 'true' este operador te devolverá 'false', por el contrario si le das una expresión que sea 'false' el operador '!' te devolverá 'true'.
+
