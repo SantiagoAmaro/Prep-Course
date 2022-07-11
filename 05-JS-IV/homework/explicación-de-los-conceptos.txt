@@ -1,0 +1,11 @@
+- Objetos:
+    Los objetos son estructuras de datos que representan diversas propiedades, valores y acciones que puede realizar el objeto, todos los objetos tienen propiedades o     atributos y comportamientos o acciones representadas por pares de clave(key): valor(value).
+- Propiedades de un objeto:
+    Las propiedades de un objeto definen las caracteristicas de un objeto y se accede a ella mediante una notación de punto:
+    nombreObjeto.nombrePropiedad
+- Metodo: 
+    Un metodo es una propiedad de un objeto que es una función, los métodos se definen normalmente como una función, con excepción de que tienen que ser asignados como la propiedad de un objeto.
+- for...in:
+    La instrucción for...in itera sobre todas las propiedades enumerables de un objeto que está codificado por cadenas. El bucle iterará sobre todas las propiedades enumerables del objeto en sí y aquellas que el objeto hereda de su cadena de prototipos (las propiedades de los prototipos más cercanos tienen prioridad sobre las de los prototipos más alejados del objeto en su cadena de prototipos).
+- Notación de puntos vs notación de corchetes:
+    La notación de puntos es la forma más popular y utilizada de acceder a la propiedad de un objeto. Esto hace que el código sea más legible. La notación de puntos se utiliza con mayor frecuencia y la notación entre corchetes se utiliza cuando el nombre de la propiedad es un identificador no válido (comienza con un número, contiene símbolos, etc).
